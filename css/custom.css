@@ -1,0 +1,17 @@
+.btn-custom {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+.btn-custom:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.bg-custom {
+  background-color: #fceae8;
+}
